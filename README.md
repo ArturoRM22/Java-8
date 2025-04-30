@@ -1,6 +1,6 @@
 ## Learning Lambdas, Method References and Default Methods in java 8. 
 
-In this repository, we used lambda expressions to implement basic library functionalities with fewer lines of code, resulting in cleaner and more readable logic—once you get the hang of how lambdas work.
+In this repository, we used lambda expressions to implement basic library functionalities with fewer lines of code, resulting in cleaner and more readable logic once you get the hang of how lambdas work.
 We also explored how interfaces can include default methods with actual implementations, which can be overridden if needed.
 
 Finally, we realized that method references can be used instead of some lambda expressions. 
